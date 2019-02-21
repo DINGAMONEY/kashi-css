@@ -1,2 +1,2 @@
 # kashi-css
-An CSS Alerts Library
+A CSS Alerts Library
